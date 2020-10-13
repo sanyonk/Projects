@@ -1,3 +1,2 @@
-# Projects
-project repository
-Snake game
+# Snake game
+
